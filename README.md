@@ -1,1 +1,1 @@
-# atividade-checks-pr
+Testando checks automatizados
